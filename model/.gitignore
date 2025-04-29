@@ -1,0 +1,3 @@
+/.env
+/best_model.pth
+/checkpoint.pth
