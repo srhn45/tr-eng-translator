@@ -2,8 +2,9 @@
 
 A hand-crafted PyTorch pipeline—from raw parallel corpora through BPE tokenization, dynamic curriculum training, custom losses, and multi-strategy inference—to build a state-of-the-art English→Turkish translation model.
 
-> **Status (2025-04-29)**: 
-> - Model training is currently in progress
+> **Status (2025-05-09)**:  
+> - Model training is still ongoing  
+> - Current validation BLEU score is approximately **32**  
 > - Upon completion, the trained model will be uploaded to HuggingFace Hub
 > - All data artifacts (raw files, tokenized CSVs, train/val splits) will be released via public Google Drive folder
 
